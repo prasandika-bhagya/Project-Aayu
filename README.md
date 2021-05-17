@@ -14,18 +14,18 @@ Team Aayu noticed that the knowledge among the general public about ayurvedic me
  
  ## Work Breakdown
 
-##Bhagya Prasandika (Team Leader ) - Back End (Back end APIs for plant information , JSON Plant database in Sinhala,English,Tamil , Login API , Connecting/Integrating ResNet model ,  Deploying in AWS , Testing (Compatibility testing) , Extra work website (Quiz page)
+Bhagya Prasandika (Team Leader ) - Back End (Back end APIs for plant information , JSON Plant database in Sinhala,English,Tamil , Login API , Connecting/Integrating ResNet model ,  Deploying in AWS , Testing (Compatibility testing) , Extra work website (Quiz page)
 
-##Banaka Kariyawasam - Back End (Map API , Connecting/Integrating AlexNet model , CI/CD , Back end APIs for map  , MongoDB for map , Testing (Performance testing) , Extra work website (Map function)
+Banaka Kariyawasam - Back End (Map API , Connecting/Integrating AlexNet model , CI/CD , Back end APIs for map  , MongoDB for map , Testing (Performance testing) , Extra work website (Map function)
 
-##Viraj Bandara - Data Science (AlexNet model for healthy plants) , Testing (Testing non-functional requirements , Black Box Tesing) , Extra work website (Explore page)
+Viraj Bandara - Data Science (AlexNet model for healthy plants) , Testing (Testing non-functional requirements , Black Box Tesing) , Extra work website (Explore page)
 
-##Anuja Dassanayake - Data Science (ResNet model for diseased plants, Data clearing/augmentation) ,Testing (Testing non-functional requirements) , Extra work 
+Anuja Dassanayake - Data Science (ResNet model for diseased plants, Data clearing/augmentation) ,Testing (Testing non-functional requirements) , Extra work 
 website (About page)
 
-##Aruna Randika - Front End (Scan,Camera,Help,Map pages) , Testing (Usability testing) , Extra work website (Map page)
+Aruna Randika - Front End (Scan,Camera,Help,Map pages) , Testing (Usability testing) , Extra work website (Map page)
 
-##Adeepa Jayawardana - Front End (Home,Quiz,About,Welcome pages) , Testing (Testing functional requirements) , Extra work website (Home page)
+Adeepa Jayawardana - Front End (Home,Quiz,About,Welcome pages) , Testing (Testing functional requirements) , Extra work website (Home page)
 
  
  ## Features of the prototype
