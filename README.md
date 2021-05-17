@@ -1,3 +1,5 @@
+# demo link - https://www.youtube.com/watch?v=RN7Gh4aE5zE&list=LLBd8vYWNG2qgD2RnfPbUjZg&index=3
+
 # Project Aayu 
 
 Team Aayu noticed that the knowledge among the general public about ayurvedic medicinal plants is less nowadays and because of that the indigenous medicinal system has been neglected. The main reason was, there wasn't any easy way to identify ayurvedic medicinal plants by the general public. So Aayu mobile application is introduced to solve the above problem where team Aayu has developed an automated system to identify ayurvedic medicinal plants by scanning the leaves of that plant.
