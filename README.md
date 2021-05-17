@@ -4,12 +4,29 @@ Team Aayu noticed that the knowledge among the general public about ayurvedic me
 
 ## Technology Stack
 
- - Front-End: [React Native](https://reactnative.dev/)
- - Machine Learning: [Python](https://www.python.org/) , [PyTorch](https://www.python.org/)
+ - Front-End: [Java](https://reactnative.dev/)
+ - Machine Learning: [Python](https://www.python.org/) 
  - Version Controllers: [Github](https://github.com/)
  - IDEs: [Visual Studio Code](https://code.visualstudio.com/), [Pycharm](https://www.jetbrains.com/pycharm/)
  - Virtual Devices: [Android Studio AVD](https://developer.android.com/studio)
  - Cloud Computing Execution Model: [AWS Serverless Architecture](https://aws.amazon.com/)
+ 
+ 
+ ## Work Breakdown
+
+##Bhagya Prasandika (Team Leader ) - Back End (Back end APIs for plant information , JSON Plant database in Sinhala,English,Tamil , Login API , Connecting/Integrating ResNet model ,  Deploying in AWS , Testing (Compatibility testing) , Extra work website (Quiz page)
+
+##Banaka Kariyawasam - Back End (Map API , Connecting/Integrating AlexNet model , CI/CD , Back end APIs for map  , MongoDB for map , Testing (Performance testing) , Extra work website (Map function)
+
+##Viraj Bandara - Data Science (AlexNet model for healthy plants) , Testing (Testing non-functional requirements , Black Box Tesing) , Extra work website (Explore page)
+
+##Anuja Dassanayake - Data Science (ResNet model for diseased plants, Data clearing/augmentation) ,Testing (Testing non-functional requirements) , Extra work 
+website (About page)
+
+##Aruna Randika - Front End (Scan,Camera,Help,Map pages) , Testing (Usability testing) , Extra work website (Map page)
+
+##Adeepa Jayawardana - Front End (Home,Quiz,About,Welcome pages) , Testing (Testing functional requirements) , Extra work website (Home page)
+
  
  ## Features of the prototype
  1.  Identify medical plants using a leaf.
@@ -40,27 +57,6 @@ Team Aayu noticed that the knowledge among the general public about ayurvedic me
     
 
 -   Users can use the Q & A session in Aayu app to enhance the knowledge about medicinal plants. It will be an interactive platform for the younger generation to develop their knowledge about medicinal plants.
-
-## Work Breakdown
-
- - **Front-End (@Adeepa, @Aruna)**
-	 - @Adeepa - Main, Info, Help, Login Pages
-	 - @Aruna - Scan, About, Quiz, Map Pages
-	 - White Box Testing
-	
-- **Back-End (@Minura, @Bhagya)**
-	- @Minura - Google Map API
-	- @Bhagya - Google Login API
-	- AWS - For Deployment
-	- REST API & Connect Back-end Front-end
-
-- **Machine Learning (@Viraj, @Anuja)**
-	- @Anuja - RESNET
-	- @Viraj - ALEXNET
-	- Data Clearing ,Augmentation, Feature Engineering
-	- Black Box Testing
-
-
 
 
 
